@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Welcome to ChainVerse!](README.md)
 
 ## The Company
 
